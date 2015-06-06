@@ -1,5 +1,3 @@
--*- outline -*-
-
 JNIL
 
 * PACKAGE CONTENTS
